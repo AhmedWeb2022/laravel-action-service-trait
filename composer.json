@@ -1,5 +1,5 @@
 {
-    "name": "prevailexcel/laravel-action-service-trait",
+    "name": "waheed/laravel-action-service-trait",
     "description": "A simple Laravel package to create actions, traits and services using artisan commands",
     "keywords": [
       "php",
